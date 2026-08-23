@@ -1,0 +1,3 @@
+image,label,split
+synthetic/blue_square.png,fake,train
+synthetic/green_circle.png,real,test

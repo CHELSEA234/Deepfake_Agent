@@ -1,0 +1,14 @@
+# Python >=3.10. Versions recorded by the source checkout; not a standalone LLaVA install.
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.51.3
+tokenizers==0.21.2
+trl==0.16.0
+accelerate==1.6.0
+deepspeed==0.16.7
+peft==0.16.0
+bitsandbytes>=0.45,<0.46
+Pillow>=10,<12
+packaging>=23
+sentencepiece==0.2.0
+wandb>=0.19,<0.22

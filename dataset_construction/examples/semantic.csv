@@ -1,0 +1,3 @@
+filepath,answer,p_yes
+synthetic/blue_square.png,The duplicated square makes the composition intentionally inconsistent.,0.75
+synthetic/green_circle.png,The simple circle has no semantic contradiction.,0.10

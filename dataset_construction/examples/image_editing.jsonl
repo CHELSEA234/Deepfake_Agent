@@ -1,0 +1,2 @@
+{"image": "synthetic/blue_square.png", "outputs": "A repeated geometric edge suggests a copy-move edit.", "p_yes": 0.82}
+{"image": "synthetic/green_circle.png", "outputs": "Edges and flat colors are internally consistent.", "p_yes": 0.08}
